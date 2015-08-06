@@ -9,5 +9,9 @@ public class test {
 	public static void main(String[] args) {
 		System.out.println("git start....");
 	}
+	
+	public static void test(){
+		
+	}
 
 }
