@@ -3,15 +3,11 @@ package com;
 public class test {
 	
 	/**
-	 * main 方法
+	 * main 方法 branch
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		System.out.println("git start....");
 	}
 	
-	public static void test(){
-		
-	}
-
 }
