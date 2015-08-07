@@ -3,7 +3,7 @@ package com;
 public class test {
 	
 	/**
-	 * main 方法
+	 * main 方法 master
 	 * @param args
 	 */
 	public static void main(String[] args) {
