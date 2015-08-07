@@ -7,7 +7,7 @@ public class test {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("git start....");
+		System.out.println("git start................");
 	}
 	
 }
